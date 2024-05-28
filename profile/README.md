@@ -105,3 +105,4 @@
 
 ## 프로젝트 구조
 
+![제목 없는 다이어그램 drawio](https://github.com/JourneyJinni/.github/assets/130115689/2bc4adbf-3d2d-4884-89d5-8a154c64b9a2)
