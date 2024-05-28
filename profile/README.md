@@ -1,7 +1,6 @@
 # 여행지니
 > 여행을 지니다 + 여행을 추천하다의 두가지 뜻을 포함한 단어로 사진 기반 여행 정보 추천 시스템입니다.
 
-
 ## 기술 스택 
 
 ### 백엔드 기술 스택
@@ -18,6 +17,15 @@
 ![KakaoMap API](https://img.shields.io/badge/KakaoMap%20API-FFCD00?style=flat-square&logo=kakao&logoColor=black)
 ![Bootstrap](https://img.shields.io/badge/Bootstrap-7952B3?style=flat-square&logo=bootstrap&logoColor=white)
 ![EXIFR](https://img.shields.io/badge/EXIFR-FF9900?style=flat-square&logoColor=white)
+
+## 팀원
+
+|  [김규형](https://github.com/unggu0704)| [서동인](https://github.com/ssDoi)       |
+|----------------------------------------|---------------------------------|
+| <img src="https://github.com/JourneyJinni/.github/assets/130115689/2707f0d7-3239-4755-8d34-fa91939a9723" width="120"> | <img src="https://github.com/JourneyJinni/.github/assets/130115689/98d32549-eb84-4055-b9c3-3e1d734659fe" width="120"> |
+
+ 
+
 
 
 ## 기능
