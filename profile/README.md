@@ -12,8 +12,6 @@
 ![OpenCV](https://img.shields.io/badge/OpenCV-5C3EE8?style=flat-square&logo=OpenCV&logoColor=white)
 ![Geolocation](https://img.shields.io/badge/Geolocation%20API-00A86B?style=flat-square&logo=google-maps&logoColor=white)
 
-![REST API](https://img.shields.io/badge/REST%20API-009688?style=flat-square&logo=api&logoColor=white)
-
 ### 프론트 기술 스택
 <img src="https://img.shields.io/badge/Vue.js-099268?style=flat&logo=Vue.js&logoColor=white"/>   <img src="https://img.shields.io/badge/vite-228be6?style=flat&logo=vite&logoColor=white"/>
 ![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=node.js&logoColor=white)
