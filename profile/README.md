@@ -12,6 +12,7 @@
 ![OpenCV](https://img.shields.io/badge/OpenCV-5C3EE8?style=flat-square&logo=OpenCV&logoColor=white)
 ![Geolocation](https://img.shields.io/badge/Geolocation%20API-00A86B?style=flat-square&logo=google-maps&logoColor=white)
 
+![REST API](https://img.shields.io/badge/REST%20API-009688?style=flat-square&logo=api&logoColor=white)
 
 ### 프론트 기술 스택
 <img src="https://img.shields.io/badge/Vue.js-099268?style=flat&logo=Vue.js&logoColor=white"/>   <img src="https://img.shields.io/badge/vite-228be6?style=flat&logo=vite&logoColor=white"/>
@@ -20,13 +21,22 @@
 ![Bootstrap](https://img.shields.io/badge/Bootstrap-7952B3?style=flat-square&logo=bootstrap&logoColor=white)
 ![EXIFR](https://img.shields.io/badge/EXIFR-FF9900?style=flat-square&logoColor=white)
 
+### API 및 문서화 도구
+![REST API](https://img.shields.io/badge/REST%20API-009688?style=flat-square&logo=api&logoColor=white)
+![Postman](https://img.shields.io/badge/Postman-FF6C37?style=flat-square&logo=postman&logoColor=white)
+![Notion](https://img.shields.io/badge/Notion-000000?style=flat-square&logo=notion&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white)
+
+
 ## 팀원
 
 |  [김규형](https://github.com/unggu0704)| [서동인](https://github.com/ssDoi)       |
 |----------------------------------------|---------------------------------|
 | <img src="https://github.com/JourneyJinni/.github/assets/130115689/2707f0d7-3239-4755-8d34-fa91939a9723" width="120"> | <img src="https://github.com/JourneyJinni/.github/assets/130115689/98d32549-eb84-4055-b9c3-3e1d734659fe" width="120"> |
 
- 
+
+ ## 프로젝트 구조
+![제목 없는 다이어그램 drawio](https://github.com/JourneyJinni/.github/assets/130115689/ed982d4d-8b5e-4730-8e24-15222455dd6b)
 
 
 
@@ -114,6 +124,3 @@
 - 유저가 만든 사진 기록은 공유가 가능합니다.
 - 갤러리 형태로 기록에 대한 사진을 제공합니다.
 
-## 프로젝트 구조
-
-![제목 없는 다이어그램 drawio](https://github.com/JourneyJinni/.github/assets/130115689/2bc4adbf-3d2d-4884-89d5-8a154c64b9a2)
