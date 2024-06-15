@@ -36,7 +36,8 @@
 
 
  ## 프로젝트 구조
-![제목 없는 다이어그램 drawio](https://github.com/JourneyJinni/.github/assets/130115689/ed982d4d-8b5e-4730-8e24-15222455dd6b)
+
+![제목 없는 다이어그램 drawio](https://github.com/JourneyJinni/.github/assets/130115689/1421582b-ac55-4e43-82b2-8c1107aaf493)
 
 
 
