@@ -8,6 +8,7 @@
 ![Java](https://img.shields.io/badge/Java-007396?style=flat-square&logo=oracle&logoColor=white)
 ![MyBatis](https://img.shields.io/badge/MyBatis-e34f26?style=flat-square&logo=mybatis&logoColor=white)
 ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=MySQL&logoColor=white)
+![JWT](https://img.shields.io/badge/JWT-black?style=flat-square&logo=json-web-tokens&logoColor=white)
 ![OpenCV](https://img.shields.io/badge/OpenCV-5C3EE8?style=flat-square&logo=OpenCV&logoColor=white)
 ![Geolocation](https://img.shields.io/badge/Geolocation%20API-00A86B?style=flat-square&logo=google-maps&logoColor=white)
 
@@ -73,6 +74,7 @@
 </table>
 
 - 로그인과 회원가입은 slide를 통해 가능합니다.
+- 로그인은 JWT를 통해 관리합니다.
 - 게시판은 회원만 작성 가능합니다.
 
 ## 관광지 조회(검색어 기반)
