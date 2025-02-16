@@ -19,6 +19,17 @@
 ![Bootstrap](https://img.shields.io/badge/Bootstrap-7952B3?style=flat-square&logo=bootstrap&logoColor=white)
 ![EXIFR](https://img.shields.io/badge/EXIFR-FF9900?style=flat-square&logoColor=white)
 
+### 인프라 & 배포
+![Azure](https://img.shields.io/badge/Azure-0078D4?style=flat-square&logo=microsoftazure&logoColor=white)
+![AKS](https://img.shields.io/badge/AKS-0078D4?style=flat-square&logo=microsoftazure&logoColor=white)
+![ACR](https://img.shields.io/badge/ACR-0078D4?style=flat-square&logo=microsoftazure&logoColor=white)
+![ArgoCD](https://img.shields.io/badge/ArgoCD-EF7B4D?style=flat-square&logo=argo&logoColor=white)
+![GitHub Actions](https://img.shields.io/badge/GitHub%20Actions-2088FF?style=flat-square&logo=github-actions&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
+![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?style=flat-square&logo=kubernetes&logoColor=white)
+
+
+
 ### API 및 문서화 도구
 ![REST API](https://img.shields.io/badge/REST%20API-009688?style=flat-square&logo=api&logoColor=white)
 ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=flat-square&logo=postman&logoColor=white)
@@ -35,6 +46,10 @@
 
  ## 프로젝트 구조
 
+### 인프라 구조
+![Image](https://github.com/user-attachments/assets/3c8b8a25-1651-407d-b061-2931c65b5c8f)
+
+### 어플리케이션 구조
 ![제목 없는 다이어그램 drawio](https://github.com/JourneyJinni/.github/assets/130115689/1421582b-ac55-4e43-82b2-8c1107aaf493)
 
 
